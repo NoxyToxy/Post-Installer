@@ -52,7 +52,7 @@ netsh advfirewall set allprofiles state off
 ```
 ### Скачать и запустить установку VC редистов за все года
 В %TEMP% скачивается скрипт автоустановки редистов [от сюда](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/), и собственно запускается в отдельном процессе.
-### Скачать и запустить Microsft Activation Scripts
+### Скачать и запустить Microsoft Activation Scripts
 Вводится следующая команда:
 ```
 irm https://massgrave.dev/get | iex
